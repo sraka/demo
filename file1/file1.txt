@@ -1,0 +1,10 @@
+import {% if  %}{% else %}{% endif %}
+
+import {% if  %}D:\__CS\repos\github\demo{% else %}{% endif %}
+
+import {% endcycle %}
+
+
+class {% autoescape autoescapeoff %}{% endautoescape %}
+
+
